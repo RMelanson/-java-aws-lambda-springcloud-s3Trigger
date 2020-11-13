@@ -1,1 +1,1 @@
-# -java-aws-lambda-springcloud-sS3Trigger
+# -java-aws-lambda-springcloud-s3Trigger
